@@ -1,4 +1,4 @@
 resource "local_file" "file" {
-  content = var.content
+  content  = var.content
   filename = var.filename
 }
