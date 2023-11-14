@@ -1,9 +1,9 @@
-variable file_name {
+variable filename {
     type = string
     nullable = false
 }
 
-variable file_content {
+variable content {
     type = string
     nullable = false
 }
